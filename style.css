@@ -27,7 +27,15 @@ section{
     background-color: rgba(221, 138, 13, 0.932);
     padding: 10px 40px;
 }
-.half-width second-part img{
+.half-width dream-big img{
     width: 20%;
     padding-right:200%;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 3%;
+    padding-bottom: 10px;
+    margin-top: 10px;
 }
