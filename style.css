@@ -27,3 +27,7 @@ section{
     background-color: rgba(221, 138, 13, 0.932);
     padding: 10px 40px;
 }
+.half-width second-part img{
+    width: 20%;
+    padding-right:200%;
+}
