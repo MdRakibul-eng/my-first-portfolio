@@ -74,4 +74,14 @@ h1{
     display: flex;
 }
 .shadow{
-    box-shadow: inset 1em 0em gold;
+    
+    border-left: 5px solid orange;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(16, 16, 61);
+    font-family: 'Lobster', cursive;
+    color: aliceblue;
+}
+.orange-color{
+    color: rgb(255, 0, 0);
